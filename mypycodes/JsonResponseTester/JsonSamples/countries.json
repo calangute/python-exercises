@@ -1,0 +1,2415 @@
+{
+  "countries": [
+    {
+      "cntrDes": "Vanuatu",
+      "countryCode": "548",
+      "iso": "VUT",
+      "iso23166": "VU",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 229,
+      "countryIdPub": "VUT"
+    },
+    {
+      "cntrDes": "Venezuela",
+      "countryCode": "862",
+      "iso": "VEN",
+      "iso23166": "VE",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999A",
+      "countryId": 230,
+      "countryIdPub": "VEN"
+    },
+    {
+      "cntrDes": "Virgin Islands, British",
+      "countryCode": "092",
+      "iso": "VGB",
+      "iso23166": "VG",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 232,
+      "countryIdPub": "VGB"
+    },
+    {
+      "cntrDes": "Virgin Islands, U.S.",
+      "countryCode": "850",
+      "iso": "VIR",
+      "iso23166": "VI",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 233,
+      "countryIdPub": "VIR"
+    },
+    {
+      "cntrDes": "Wallis and Futuna",
+      "countryCode": "876",
+      "iso": "WLF",
+      "iso23166": "WF",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 234,
+      "countryIdPub": "WLF"
+    },
+    {
+      "cntrDes": "Yemen",
+      "countryCode": "887",
+      "iso": "YEM",
+      "iso23166": "YE",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 236,
+      "countryIdPub": "YEM"
+    },
+    {
+      "cntrDes": "Serbia and Montenegro",
+      "countryCode": "891",
+      "iso": "SCG",
+      "iso23166": "CS",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 237,
+      "countryIdPub": "SCG"
+    },
+    {
+      "cntrDes": "Zambia",
+      "countryCode": "894",
+      "iso": "ZMB",
+      "iso23166": "ZM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 238,
+      "countryIdPub": "ZMB"
+    },
+    {
+      "cntrDes": "North America areas (artificial country)",
+      "countryCode": " ",
+      "iso": "NAA",
+      "iso23166": " ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 240,
+      "countryIdPub": "NAA"
+    },
+    {
+      "cntrDes": "Austria",
+      "countryCode": "040",
+      "iso": "AUT",
+      "iso23166": "AT",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 15,
+      "countryIdPub": "AUT"
+    },
+    {
+      "cntrDes": "Bangladesh",
+      "countryCode": "050",
+      "iso": "BGD",
+      "iso23166": "BD",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 19,
+      "countryIdPub": "BGD"
+    },
+    {
+      "cntrDes": "Belize",
+      "countryCode": "084",
+      "iso": "BLZ",
+      "iso23166": "BZ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 23,
+      "countryIdPub": "BLZ"
+    },
+    {
+      "cntrDes": "Bolivia",
+      "countryCode": "068",
+      "iso": "BOL",
+      "iso23166": "BO",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 27,
+      "countryIdPub": "BOL"
+    },
+    {
+      "cntrDes": "Brazil",
+      "countryCode": "076",
+      "iso": "BRA",
+      "iso23166": "BR",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999-999",
+      "countryId": 31,
+      "countryIdPub": "BRA"
+    },
+    {
+      "cntrDes": "China",
+      "countryCode": "156",
+      "iso": "CHN",
+      "iso23166": "CN",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 44,
+      "countryIdPub": "CHN"
+    },
+    {
+      "cntrDes": "Comoros",
+      "countryCode": "174",
+      "iso": "COM",
+      "iso23166": "KM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 48,
+      "countryIdPub": "COM"
+    },
+    {
+      "cntrDes": "Costa Rica",
+      "countryCode": "188",
+      "iso": "CRI",
+      "iso23166": "CR",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 52,
+      "countryIdPub": "CRI"
+    },
+    {
+      "cntrDes": "Cyprus",
+      "countryCode": "196",
+      "iso": "CYP",
+      "iso23166": "CY",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 56,
+      "countryIdPub": "CYP"
+    },
+    {
+      "cntrDes": "Dominica",
+      "countryCode": "212",
+      "iso": "DMA",
+      "iso23166": "DM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999-9999",
+      "countryId": 60,
+      "countryIdPub": "DMA"
+    },
+    {
+      "cntrDes": "France",
+      "countryCode": "250",
+      "iso": "FRA",
+      "iso23166": "FR",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 73,
+      "countryIdPub": "FRA"
+    },
+    {
+      "cntrDes": "Gabon",
+      "countryCode": "266",
+      "iso": "GAB",
+      "iso23166": "GA",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 77,
+      "countryIdPub": "GAB"
+    },
+    {
+      "cntrDes": "Ghana",
+      "countryCode": "288",
+      "iso": "GHA",
+      "iso23166": "GH",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 81,
+      "countryIdPub": "GHA"
+    },
+    {
+      "cntrDes": "Grenada",
+      "countryCode": "308",
+      "iso": "GRD",
+      "iso23166": "GD",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 85,
+      "countryIdPub": "GRD"
+    },
+    {
+      "cntrDes": "Guinea",
+      "countryCode": "324",
+      "iso": "GIN",
+      "iso23166": "GN",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 89,
+      "countryIdPub": "GIN"
+    },
+    {
+      "cntrDes": "Italy",
+      "countryCode": "380",
+      "iso": "ITA",
+      "iso23166": "IT",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 105,
+      "countryIdPub": "ITA"
+    },
+    {
+      "cntrDes": "Kazakhstan",
+      "countryCode": "398",
+      "iso": "KAZ",
+      "iso23166": "KZ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 109,
+      "countryIdPub": "KAZ"
+    },
+    {
+      "cntrDes": "Korea, Republic of",
+      "countryCode": "410",
+      "iso": "KOR",
+      "iso23166": "KR",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999-999",
+      "countryId": 113,
+      "countryIdPub": "KOR"
+    },
+    {
+      "cntrDes": "Latvia",
+      "countryCode": "428",
+      "iso": "LVA",
+      "iso23166": "LV",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 117,
+      "countryIdPub": "LVA"
+    },
+    {
+      "cntrDes": "Libya",
+      "countryCode": "434",
+      "iso": "LBY",
+      "iso23166": "LY",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 121,
+      "countryIdPub": "LBY"
+    },
+    {
+      "cntrDes": "Mauritius",
+      "countryCode": "480",
+      "iso": "MUS",
+      "iso23166": "MU",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 136,
+      "countryIdPub": "MUS"
+    },
+    {
+      "cntrDes": "Moldova, Republic of",
+      "countryCode": "498",
+      "iso": "MDA",
+      "iso23166": "MD",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 140,
+      "countryIdPub": "MDA"
+    },
+    {
+      "cntrDes": "Mozambique",
+      "countryCode": "508",
+      "iso": "MOZ",
+      "iso23166": "MZ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 145,
+      "countryIdPub": "MOZ"
+    },
+    {
+      "cntrDes": "Nepal",
+      "countryCode": "524",
+      "iso": "NPL",
+      "iso23166": "NP",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 149,
+      "countryIdPub": "NPL"
+    },
+    {
+      "cntrDes": "New Caledonia",
+      "countryCode": "540",
+      "iso": "NCL",
+      "iso23166": "NC",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 152,
+      "countryIdPub": "NCL"
+    },
+    {
+      "cntrDes": "Panama",
+      "countryCode": "591",
+      "iso": "PAN",
+      "iso23166": "PA",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 165,
+      "countryIdPub": "PAN"
+    },
+    {
+      "cntrDes": "Philippines",
+      "countryCode": "608",
+      "iso": "PHL",
+      "iso23166": "PH",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 169,
+      "countryIdPub": "PHL"
+    },
+    {
+      "cntrDes": "Puerto Rico",
+      "countryCode": "630",
+      "iso": "PRI",
+      "iso23166": "PR",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999-9999",
+      "countryId": 173,
+      "countryIdPub": "PRI"
+    },
+    {
+      "cntrDes": "Rwanda",
+      "countryCode": "646",
+      "iso": "RWA",
+      "iso23166": "RW",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 178,
+      "countryIdPub": "RWA"
+    },
+    {
+      "cntrDes": "Saint Lucia",
+      "countryCode": "662",
+      "iso": "LCA",
+      "iso23166": "LC",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 181,
+      "countryIdPub": "LCA"
+    },
+    {
+      "cntrDes": "South Georgia and South Sandwich Islands",
+      "countryCode": "239",
+      "iso": "SGS",
+      "iso23166": "GS",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 197,
+      "countryIdPub": "SGS"
+    },
+    {
+      "cntrDes": "Svalbard and Jan Mayen",
+      "countryCode": "744",
+      "iso": "SJM",
+      "iso23166": "SJ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 202,
+      "countryIdPub": "SJM"
+    },
+    {
+      "cntrDes": "Syrian Arab Republic",
+      "countryCode": "760",
+      "iso": "SYR",
+      "iso23166": "SY",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 206,
+      "countryIdPub": "SYR"
+    },
+    {
+      "cntrDes": "Thailand",
+      "countryCode": "764",
+      "iso": "THA",
+      "iso23166": "TH",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 210,
+      "countryIdPub": "THA"
+    },
+    {
+      "cntrDes": "United States Minor Outlying Islands",
+      "countryCode": "581",
+      "iso": "UMI",
+      "iso23166": "UM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 226,
+      "countryIdPub": "UMI"
+    },
+    {
+      "cntrDes": "Viet Nam",
+      "countryCode": "704",
+      "iso": "VNM",
+      "iso23166": "VN",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 231,
+      "countryIdPub": "VNM"
+    },
+    {
+      "cntrDes": "Western Sahara",
+      "countryCode": "732",
+      "iso": "ESH",
+      "iso23166": "EH",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 235,
+      "countryIdPub": "ESH"
+    },
+    {
+      "cntrDes": "Zimbabwe",
+      "countryCode": "716",
+      "iso": "ZWE",
+      "iso23166": "ZW",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 239,
+      "countryIdPub": "ZWE"
+    },
+    {
+      "cntrDes": "Qatar",
+      "countryCode": "634",
+      "iso": "QAT",
+      "iso23166": "QA",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 174,
+      "countryIdPub": "QAT"
+    },
+    {
+      "cntrDes": "Reunion",
+      "countryCode": "638",
+      "iso": "REU",
+      "iso23166": "RE",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 175,
+      "countryIdPub": "REU"
+    },
+    {
+      "cntrDes": "Romania",
+      "countryCode": "642",
+      "iso": "ROU",
+      "iso23166": "RO",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 176,
+      "countryIdPub": "ROU"
+    },
+    {
+      "cntrDes": "Russian Federation",
+      "countryCode": "643",
+      "iso": "RUS",
+      "iso23166": "RU",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 177,
+      "countryIdPub": "RUS"
+    },
+    {
+      "cntrDes": "Saint Helena",
+      "countryCode": "654",
+      "iso": "SHN",
+      "iso23166": "SH",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 179,
+      "countryIdPub": "SHN"
+    },
+    {
+      "cntrDes": "Saint Kitts and Nevis",
+      "countryCode": "659",
+      "iso": "KNA",
+      "iso23166": "KN",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 180,
+      "countryIdPub": "KNA"
+    },
+    {
+      "cntrDes": "Saint Pierre and Miquelon",
+      "countryCode": "666",
+      "iso": "SPM",
+      "iso23166": "PM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 182,
+      "countryIdPub": "SPM"
+    },
+    {
+      "cntrDes": "Saint Vincent and the Grenadines",
+      "countryCode": "670",
+      "iso": "VCT",
+      "iso23166": "VC",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 183,
+      "countryIdPub": "VCT"
+    },
+    {
+      "cntrDes": "Samoa",
+      "countryCode": "882",
+      "iso": "WSM",
+      "iso23166": "WS",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 184,
+      "countryIdPub": "WSM"
+    },
+    {
+      "cntrDes": "San Marino",
+      "countryCode": "674",
+      "iso": "SMR",
+      "iso23166": "SM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 185,
+      "countryIdPub": "SMR"
+    },
+    {
+      "cntrDes": "Sao Tome and Principe",
+      "countryCode": "678",
+      "iso": "STP",
+      "iso23166": "ST",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 186,
+      "countryIdPub": "STP"
+    },
+    {
+      "cntrDes": "Saudi Arabia",
+      "countryCode": "682",
+      "iso": "SAU",
+      "iso23166": "SA",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 187,
+      "countryIdPub": "SAU"
+    },
+    {
+      "cntrDes": "Senegal",
+      "countryCode": "686",
+      "iso": "SEN",
+      "iso23166": "SN",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 188,
+      "countryIdPub": "SEN"
+    },
+    {
+      "cntrDes": "Seychelles",
+      "countryCode": "690",
+      "iso": "SYC",
+      "iso23166": "SC",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 189,
+      "countryIdPub": "SYC"
+    },
+    {
+      "cntrDes": "Sierra Leone",
+      "countryCode": "694",
+      "iso": "SLE",
+      "iso23166": "SL",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 190,
+      "countryIdPub": "SLE"
+    },
+    {
+      "cntrDes": "Singapore",
+      "countryCode": "702",
+      "iso": "SGP",
+      "iso23166": "SG",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 191,
+      "countryIdPub": "SGP"
+    },
+    {
+      "cntrDes": "Slovakia",
+      "countryCode": "703",
+      "iso": "SVK",
+      "iso23166": "SK",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 192,
+      "countryIdPub": "SVK"
+    },
+    {
+      "cntrDes": "Slovenia",
+      "countryCode": "705",
+      "iso": "SVN",
+      "iso23166": "SI",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 193,
+      "countryIdPub": "SVN"
+    },
+    {
+      "cntrDes": "Solomon Islands",
+      "countryCode": "090",
+      "iso": "SLB",
+      "iso23166": "SB",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 194,
+      "countryIdPub": "SLB"
+    },
+    {
+      "cntrDes": "Somalia",
+      "countryCode": "706",
+      "iso": "SOM",
+      "iso23166": "SO",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 195,
+      "countryIdPub": "SOM"
+    },
+    {
+      "cntrDes": "South Africa",
+      "countryCode": "710",
+      "iso": "ZAF",
+      "iso23166": "ZA",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 196,
+      "countryIdPub": "ZAF"
+    },
+    {
+      "cntrDes": "Spain",
+      "countryCode": "724",
+      "iso": "ESP",
+      "iso23166": "ES",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 198,
+      "countryIdPub": "ESP"
+    },
+    {
+      "cntrDes": "Sri Lanka",
+      "countryCode": "144",
+      "iso": "LKA",
+      "iso23166": "LK",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 199,
+      "countryIdPub": "LKA"
+    },
+    {
+      "cntrDes": "Sudan",
+      "countryCode": "736",
+      "iso": "SDN",
+      "iso23166": "SD",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 200,
+      "countryIdPub": "SDN"
+    },
+    {
+      "cntrDes": "Suriname",
+      "countryCode": "740",
+      "iso": "SUR",
+      "iso23166": "SR",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 201,
+      "countryIdPub": "SUR"
+    },
+    {
+      "cntrDes": "Swaziland",
+      "countryCode": "748",
+      "iso": "SWZ",
+      "iso23166": "SZ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "A999",
+      "countryId": 203,
+      "countryIdPub": "SWZ"
+    },
+    {
+      "cntrDes": "Sweden",
+      "countryCode": "752",
+      "iso": "SWE",
+      "iso23166": "SE",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999 99",
+      "countryId": 204,
+      "countryIdPub": "SWE"
+    },
+    {
+      "cntrDes": "Switzerland",
+      "countryCode": "756",
+      "iso": "CHE",
+      "iso23166": "CH",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 205,
+      "countryIdPub": "CHE"
+    },
+    {
+      "cntrDes": "Taiwan, Province of China",
+      "countryCode": "158",
+      "iso": "TWN",
+      "iso23166": "TW",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 207,
+      "countryIdPub": "TWN"
+    },
+    {
+      "cntrDes": "Tajikistan",
+      "countryCode": "762",
+      "iso": "TJK",
+      "iso23166": "TJ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 208,
+      "countryIdPub": "TJK"
+    },
+    {
+      "cntrDes": "Tanzania, United Republic of",
+      "countryCode": "834",
+      "iso": "TZA",
+      "iso23166": "TZ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 209,
+      "countryIdPub": "TZA"
+    },
+    {
+      "cntrDes": "Timor-Leste",
+      "countryCode": "626",
+      "iso": "TLS",
+      "iso23166": "TL",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 211,
+      "countryIdPub": "TLS"
+    },
+    {
+      "cntrDes": "Togo",
+      "countryCode": "768",
+      "iso": "TGO",
+      "iso23166": "TG",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 212,
+      "countryIdPub": "TGO"
+    },
+    {
+      "cntrDes": "Tokelau",
+      "countryCode": "772",
+      "iso": "TKL",
+      "iso23166": "TK",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 213,
+      "countryIdPub": "TKL"
+    },
+    {
+      "cntrDes": "Tonga",
+      "countryCode": "776",
+      "iso": "TON",
+      "iso23166": "TO",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 214,
+      "countryIdPub": "TON"
+    },
+    {
+      "cntrDes": "Trinidad and Tobago",
+      "countryCode": "780",
+      "iso": "TTO",
+      "iso23166": "TT",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 215,
+      "countryIdPub": "TTO"
+    },
+    {
+      "cntrDes": "Tunisia",
+      "countryCode": "788",
+      "iso": "TUN",
+      "iso23166": "TN",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 216,
+      "countryIdPub": "TUN"
+    },
+    {
+      "cntrDes": "Turkey",
+      "countryCode": "792",
+      "iso": "TUR",
+      "iso23166": "TR",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 217,
+      "countryIdPub": "TUR"
+    },
+    {
+      "cntrDes": "Turkmenistan",
+      "countryCode": "795",
+      "iso": "TKM",
+      "iso23166": "TM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 218,
+      "countryIdPub": "TKM"
+    },
+    {
+      "cntrDes": "Turks and Caicos Islands",
+      "countryCode": "796",
+      "iso": "TCA",
+      "iso23166": "TC",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 219,
+      "countryIdPub": "TCA"
+    },
+    {
+      "cntrDes": "Tuvalu",
+      "countryCode": "798",
+      "iso": "TUV",
+      "iso23166": "TV",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 220,
+      "countryIdPub": "TUV"
+    },
+    {
+      "cntrDes": "Uganda",
+      "countryCode": "800",
+      "iso": "UGA",
+      "iso23166": "UG",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 221,
+      "countryIdPub": "UGA"
+    },
+    {
+      "cntrDes": "Ukraine",
+      "countryCode": "804",
+      "iso": "UKR",
+      "iso23166": "UA",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 222,
+      "countryIdPub": "UKR"
+    },
+    {
+      "cntrDes": "United Arab Emirates",
+      "countryCode": "784",
+      "iso": "ARE",
+      "iso23166": "AE",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 223,
+      "countryIdPub": "ARE"
+    },
+    {
+      "cntrDes": "United Kingdom",
+      "countryCode": "826",
+      "iso": "GBR",
+      "iso23166": "GB",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "AA99AA",
+      "countryId": 224,
+      "countryIdPub": "GBR"
+    },
+    {
+      "cntrDes": "United States",
+      "countryCode": "840",
+      "iso": "USA",
+      "iso23166": "US",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999-9999",
+      "countryId": 225,
+      "countryIdPub": "USA"
+    },
+    {
+      "cntrDes": "Uruguay",
+      "countryCode": "858",
+      "iso": "URY",
+      "iso23166": "UY",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 227,
+      "countryIdPub": "URY"
+    },
+    {
+      "cntrDes": "Uzbekistan",
+      "countryCode": "860",
+      "iso": "UZB",
+      "iso23166": "UZ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 228,
+      "countryIdPub": "UZB"
+    },
+    {
+      "cntrDes": "Chile",
+      "countryCode": "152",
+      "iso": "CHL",
+      "iso23166": "CL",
+      "postalCodeFormat": "9999999",
+      "countryId": 1,
+      "countryIdPub": "CHL"
+    },
+    {
+      "cntrDes": "Afghanistan",
+      "countryCode": "004",
+      "iso": "AFG",
+      "iso23166": "AF",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 2,
+      "countryIdPub": "AFG"
+    },
+    {
+      "cntrDes": "Albania",
+      "countryCode": "008",
+      "iso": "ALB",
+      "iso23166": "AL",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 3,
+      "countryIdPub": "ALB"
+    },
+    {
+      "cntrDes": "Algeria",
+      "countryCode": "012",
+      "iso": "DZA",
+      "iso23166": "DZ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 4,
+      "countryIdPub": "DZA"
+    },
+    {
+      "cntrDes": "American Samoa",
+      "countryCode": "016",
+      "iso": "ASM",
+      "iso23166": "AS",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 5,
+      "countryIdPub": "ASM"
+    },
+    {
+      "cntrDes": "Andorra",
+      "countryCode": "020",
+      "iso": "AND",
+      "iso23166": "AD",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "A999",
+      "countryId": 6,
+      "countryIdPub": "AND"
+    },
+    {
+      "cntrDes": "Angola",
+      "countryCode": "024",
+      "iso": "AGO",
+      "iso23166": "AO",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 7,
+      "countryIdPub": "AGO"
+    },
+    {
+      "cntrDes": "Anguilla",
+      "countryCode": "660",
+      "iso": "AIA",
+      "iso23166": "AI",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 8,
+      "countryIdPub": "AIA"
+    },
+    {
+      "cntrDes": "Antarctica",
+      "countryCode": "010",
+      "iso": "ATA",
+      "iso23166": "AQ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 9,
+      "countryIdPub": "ATA"
+    },
+    {
+      "cntrDes": "Antigua and Barbuda",
+      "countryCode": "028",
+      "iso": "ATG",
+      "iso23166": "AG",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 10,
+      "countryIdPub": "ATG"
+    },
+    {
+      "cntrDes": "Argentina",
+      "countryCode": "032",
+      "iso": "ARG",
+      "iso23166": "AR",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "A9999AAA",
+      "countryId": 11,
+      "countryIdPub": "ARG"
+    },
+    {
+      "cntrDes": "Armenia",
+      "countryCode": "051",
+      "iso": "ARM",
+      "iso23166": "AM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 12,
+      "countryIdPub": "ARM"
+    },
+    {
+      "cntrDes": "Aruba",
+      "countryCode": "533",
+      "iso": "ABW",
+      "iso23166": "AW",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 13,
+      "countryIdPub": "ABW"
+    },
+    {
+      "cntrDes": "Australia",
+      "countryCode": "036",
+      "iso": "AUS",
+      "iso23166": "AU",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 14,
+      "countryIdPub": "AUS"
+    },
+    {
+      "cntrDes": "Azerbaijan",
+      "countryCode": "031",
+      "iso": "AZE",
+      "iso23166": "AZ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "A9999",
+      "countryId": 16,
+      "countryIdPub": "AZE"
+    },
+    {
+      "cntrDes": "Bahamas",
+      "countryCode": "044",
+      "iso": "BHS",
+      "iso23166": "BS",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 17,
+      "countryIdPub": "BHS"
+    },
+    {
+      "cntrDes": "Bahrain",
+      "countryCode": "048",
+      "iso": "BHR",
+      "iso23166": "BH",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 18,
+      "countryIdPub": "BHR"
+    },
+    {
+      "cntrDes": "Barbados",
+      "countryCode": "052",
+      "iso": "BRB",
+      "iso23166": "BB",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 20,
+      "countryIdPub": "BRB"
+    },
+    {
+      "cntrDes": "Belarus",
+      "countryCode": "112",
+      "iso": "BLR",
+      "iso23166": "BY",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 21,
+      "countryIdPub": "BLR"
+    },
+    {
+      "cntrDes": "Belgium",
+      "countryCode": "056",
+      "iso": "BEL",
+      "iso23166": "BE",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 22,
+      "countryIdPub": "BEL"
+    },
+    {
+      "cntrDes": "Benin",
+      "countryCode": "204",
+      "iso": "BEN",
+      "iso23166": "BJ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 24,
+      "countryIdPub": "BEN"
+    },
+    {
+      "cntrDes": "Bermuda",
+      "countryCode": "060",
+      "iso": "BMU",
+      "iso23166": "BM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "AAnn",
+      "countryId": 25,
+      "countryIdPub": "BMU"
+    },
+    {
+      "cntrDes": "Bhutan",
+      "countryCode": "064",
+      "iso": "BTN",
+      "iso23166": "BT",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 26,
+      "countryIdPub": "BTN"
+    },
+    {
+      "cntrDes": "Bosnia and Herzegovina",
+      "countryCode": "070",
+      "iso": "BIH",
+      "iso23166": "BA",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 28,
+      "countryIdPub": "BIH"
+    },
+    {
+      "cntrDes": "Botswana",
+      "countryCode": "072",
+      "iso": "BWA",
+      "iso23166": "BW",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 29,
+      "countryIdPub": "BWA"
+    },
+    {
+      "cntrDes": "Bouvet Island",
+      "countryCode": "074",
+      "iso": "BVT",
+      "iso23166": "BV",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 30,
+      "countryIdPub": "BVT"
+    },
+    {
+      "cntrDes": "British Indian Ocean Territory",
+      "countryCode": "086",
+      "iso": "IOT",
+      "iso23166": "IO",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 32,
+      "countryIdPub": "IOT"
+    },
+    {
+      "cntrDes": "Brunei Darussalam",
+      "countryCode": "096",
+      "iso": "BRN",
+      "iso23166": "BN",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "AA9999",
+      "countryId": 33,
+      "countryIdPub": "BRN"
+    },
+    {
+      "cntrDes": "Bulgaria",
+      "countryCode": "100",
+      "iso": "BGR",
+      "iso23166": "BG",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 34,
+      "countryIdPub": "BGR"
+    },
+    {
+      "cntrDes": "Burkina Faso",
+      "countryCode": "854",
+      "iso": "BFA",
+      "iso23166": "BF",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 35,
+      "countryIdPub": "BFA"
+    },
+    {
+      "cntrDes": "Burundi",
+      "countryCode": "108",
+      "iso": "BDI",
+      "iso23166": "BI",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 36,
+      "countryIdPub": "BDI"
+    },
+    {
+      "cntrDes": "Cambodia",
+      "countryCode": "116",
+      "iso": "KHM",
+      "iso23166": "KH",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 37,
+      "countryIdPub": "KHM"
+    },
+    {
+      "cntrDes": "Cameroon",
+      "countryCode": "120",
+      "iso": "CMR",
+      "iso23166": "CM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 38,
+      "countryIdPub": "CMR"
+    },
+    {
+      "cntrDes": "Canada",
+      "countryCode": "124",
+      "iso": "CAN",
+      "iso23166": "CA",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "A9A-9A9",
+      "countryId": 39,
+      "countryIdPub": "CAN"
+    },
+    {
+      "cntrDes": "Cape Verde",
+      "countryCode": "132",
+      "iso": "CPV",
+      "iso23166": "CV",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 40,
+      "countryIdPub": "CPV"
+    },
+    {
+      "cntrDes": "Cayman Islands",
+      "countryCode": "136",
+      "iso": "CYM",
+      "iso23166": "KY",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 41,
+      "countryIdPub": "CYM"
+    },
+    {
+      "cntrDes": "Central African Republic",
+      "countryCode": "140",
+      "iso": "CAF",
+      "iso23166": "CF",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 42,
+      "countryIdPub": "CAF"
+    },
+    {
+      "cntrDes": "Chad",
+      "countryCode": "148",
+      "iso": "TCD",
+      "iso23166": "TD",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 43,
+      "countryIdPub": "TCD"
+    },
+    {
+      "cntrDes": "Christmas Island",
+      "countryCode": "162",
+      "iso": "CXR",
+      "iso23166": "CX",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 45,
+      "countryIdPub": "CXR"
+    },
+    {
+      "cntrDes": "Cocos (Keeling) Islands",
+      "countryCode": "166",
+      "iso": "CCK",
+      "iso23166": "CC",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 46,
+      "countryIdPub": "CCK"
+    },
+    {
+      "cntrDes": "Colombia",
+      "countryCode": "170",
+      "iso": "COL",
+      "iso23166": "CO",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 47,
+      "countryIdPub": "COL"
+    },
+    {
+      "cntrDes": "Congo",
+      "countryCode": "178",
+      "iso": "COG",
+      "iso23166": "CG",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 49,
+      "countryIdPub": "COG"
+    },
+    {
+      "cntrDes": "Congo, The Democratic Republic of the",
+      "countryCode": "180",
+      "iso": "COD",
+      "iso23166": "CD",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 50,
+      "countryIdPub": "COD"
+    },
+    {
+      "cntrDes": "Cook Islands",
+      "countryCode": "184",
+      "iso": "COK",
+      "iso23166": "CK",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 51,
+      "countryIdPub": "COK"
+    },
+    {
+      "cntrDes": "Cote d'Ivoire",
+      "countryCode": "384",
+      "iso": "CIV",
+      "iso23166": "CI",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 53,
+      "countryIdPub": "CIV"
+    },
+    {
+      "cntrDes": "Croatia",
+      "countryCode": "191",
+      "iso": "HRV",
+      "iso23166": "HR",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 54,
+      "countryIdPub": "HRV"
+    },
+    {
+      "cntrDes": "Cuba",
+      "countryCode": "192",
+      "iso": "CUB",
+      "iso23166": "CU",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 55,
+      "countryIdPub": "CUB"
+    },
+    {
+      "cntrDes": "Czech Republic",
+      "countryCode": "203",
+      "iso": "CZE",
+      "iso23166": "CZ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999 99",
+      "countryId": 57,
+      "countryIdPub": "CZE"
+    },
+    {
+      "cntrDes": "Denmark",
+      "countryCode": "208",
+      "iso": "DNK",
+      "iso23166": "DK",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 58,
+      "countryIdPub": "DNK"
+    },
+    {
+      "cntrDes": "Djibouti",
+      "countryCode": "262",
+      "iso": "DJI",
+      "iso23166": "DJ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 59,
+      "countryIdPub": "DJI"
+    },
+    {
+      "cntrDes": "Dominican Republic",
+      "countryCode": "214",
+      "iso": "DOM",
+      "iso23166": "DO",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999-9999",
+      "countryId": 61,
+      "countryIdPub": "DOM"
+    },
+    {
+      "cntrDes": "Ecuador",
+      "countryCode": "218",
+      "iso": "ECU",
+      "iso23166": "EC",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 62,
+      "countryIdPub": "ECU"
+    },
+    {
+      "cntrDes": "Egypt",
+      "countryCode": "818",
+      "iso": "EGY",
+      "iso23166": "EG",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 63,
+      "countryIdPub": "EGY"
+    },
+    {
+      "cntrDes": "El Salvador",
+      "countryCode": "222",
+      "iso": "SLV",
+      "iso23166": "SV",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 64,
+      "countryIdPub": "SLV"
+    },
+    {
+      "cntrDes": "Equatorial Guinea",
+      "countryCode": "226",
+      "iso": "GNQ",
+      "iso23166": "GQ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 65,
+      "countryIdPub": "GNQ"
+    },
+    {
+      "cntrDes": "Eritrea",
+      "countryCode": "232",
+      "iso": "ERI",
+      "iso23166": "ER",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 66,
+      "countryIdPub": "ERI"
+    },
+    {
+      "cntrDes": "Estonia",
+      "countryCode": "233",
+      "iso": "EST",
+      "iso23166": "EE",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 67,
+      "countryIdPub": "EST"
+    },
+    {
+      "cntrDes": "Ethiopia",
+      "countryCode": "231",
+      "iso": "ETH",
+      "iso23166": "ET",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 68,
+      "countryIdPub": "ETH"
+    },
+    {
+      "cntrDes": "Falkland Islands (Malvinas)",
+      "countryCode": "238",
+      "iso": "FLK",
+      "iso23166": "FK",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 69,
+      "countryIdPub": "FLK"
+    },
+    {
+      "cntrDes": "Faroe Islands",
+      "countryCode": "234",
+      "iso": "FRO",
+      "iso23166": "FO",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999",
+      "countryId": 70,
+      "countryIdPub": "FRO"
+    },
+    {
+      "cntrDes": "Fiji",
+      "countryCode": "242",
+      "iso": "FJI",
+      "iso23166": "FJ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 71,
+      "countryIdPub": "FJI"
+    },
+    {
+      "cntrDes": "Finland",
+      "countryCode": "246",
+      "iso": "FIN",
+      "iso23166": "FI",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 72,
+      "countryIdPub": "FIN"
+    },
+    {
+      "cntrDes": "French Guiana",
+      "countryCode": "254",
+      "iso": "GUF",
+      "iso23166": "GF",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 74,
+      "countryIdPub": "GUF"
+    },
+    {
+      "cntrDes": "French Polynesia",
+      "countryCode": "258",
+      "iso": "PYF",
+      "iso23166": "PF",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 75,
+      "countryIdPub": "PYF"
+    },
+    {
+      "cntrDes": "French Southern Territories",
+      "countryCode": "260",
+      "iso": "ATF",
+      "iso23166": "TF",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 76,
+      "countryIdPub": "ATF"
+    },
+    {
+      "cntrDes": "Gambia",
+      "countryCode": "270",
+      "iso": "GMB",
+      "iso23166": "GM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 78,
+      "countryIdPub": "GMB"
+    },
+    {
+      "cntrDes": "Georgia",
+      "countryCode": "268",
+      "iso": "GEO",
+      "iso23166": "GE",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 79,
+      "countryIdPub": "GEO"
+    },
+    {
+      "cntrDes": "Germany",
+      "countryCode": "276",
+      "iso": "DEU",
+      "iso23166": "DE",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 80,
+      "countryIdPub": "DEU"
+    },
+    {
+      "cntrDes": "Gibraltar",
+      "countryCode": "292",
+      "iso": "GIB",
+      "iso23166": "GI",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 82,
+      "countryIdPub": "GIB"
+    },
+    {
+      "cntrDes": "Greece",
+      "countryCode": "300",
+      "iso": "GRC",
+      "iso23166": "GR",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 83,
+      "countryIdPub": "GRC"
+    },
+    {
+      "cntrDes": "Greenland",
+      "countryCode": "304",
+      "iso": "GRL",
+      "iso23166": "GL",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 84,
+      "countryIdPub": "GRL"
+    },
+    {
+      "cntrDes": "Guadeloupe",
+      "countryCode": "312",
+      "iso": "GLP",
+      "iso23166": "GP",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 86,
+      "countryIdPub": "GLP"
+    },
+    {
+      "cntrDes": "Guam",
+      "countryCode": "316",
+      "iso": "GUM",
+      "iso23166": "GU",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 87,
+      "countryIdPub": "GUM"
+    },
+    {
+      "cntrDes": "Guatemala",
+      "countryCode": "320",
+      "iso": "GTM",
+      "iso23166": "GT",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 88,
+      "countryIdPub": "GTM"
+    },
+    {
+      "cntrDes": "Guinea-Bissau",
+      "countryCode": "624",
+      "iso": "GNB",
+      "iso23166": "GW",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 90,
+      "countryIdPub": "GNB"
+    },
+    {
+      "cntrDes": "Guyana",
+      "countryCode": "328",
+      "iso": "GUY",
+      "iso23166": "GY",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 91,
+      "countryIdPub": "GUY"
+    },
+    {
+      "cntrDes": "Haiti",
+      "countryCode": "332",
+      "iso": "HTI",
+      "iso23166": "HT",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 92,
+      "countryIdPub": "HTI"
+    },
+    {
+      "cntrDes": "Heard and McDonald Islands",
+      "countryCode": "334",
+      "iso": "HMD",
+      "iso23166": "HM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 93,
+      "countryIdPub": "HMD"
+    },
+    {
+      "cntrDes": "Holy See (Vatican City State)",
+      "countryCode": "336",
+      "iso": "VAT",
+      "iso23166": "VA",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 94,
+      "countryIdPub": "VAT"
+    },
+    {
+      "cntrDes": "Honduras",
+      "countryCode": "340",
+      "iso": "HND",
+      "iso23166": "HN",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 95,
+      "countryIdPub": "HND"
+    },
+    {
+      "cntrDes": "Hong Kong",
+      "countryCode": "344",
+      "iso": "HKG",
+      "iso23166": "HK",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 96,
+      "countryIdPub": "HKG"
+    },
+    {
+      "cntrDes": "Hungary",
+      "countryCode": "348",
+      "iso": "HUN",
+      "iso23166": "HU",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 97,
+      "countryIdPub": "HUN"
+    },
+    {
+      "cntrDes": "Iceland",
+      "countryCode": "352",
+      "iso": "ISL",
+      "iso23166": "IS",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999",
+      "countryId": 98,
+      "countryIdPub": "ISL"
+    },
+    {
+      "cntrDes": "India",
+      "countryCode": "356",
+      "iso": "IND",
+      "iso23166": "IN",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 99,
+      "countryIdPub": "IND"
+    },
+    {
+      "cntrDes": "Indonesia",
+      "countryCode": "360",
+      "iso": "IDN",
+      "iso23166": "ID",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 100,
+      "countryIdPub": "IDN"
+    },
+    {
+      "cntrDes": "Iran, Islamic Republic of",
+      "countryCode": "364",
+      "iso": "IRN",
+      "iso23166": "IR",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999 99999",
+      "countryId": 101,
+      "countryIdPub": "IRN"
+    },
+    {
+      "cntrDes": "Iraq",
+      "countryCode": "368",
+      "iso": "IRQ",
+      "iso23166": "IQ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 102,
+      "countryIdPub": "IRQ"
+    },
+    {
+      "cntrDes": "Ireland",
+      "countryCode": "372",
+      "iso": "IRL",
+      "iso23166": "IE",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 103,
+      "countryIdPub": "IRL"
+    },
+    {
+      "cntrDes": "Israel",
+      "countryCode": "376",
+      "iso": "ISR",
+      "iso23166": "IL",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 104,
+      "countryIdPub": "ISR"
+    },
+    {
+      "cntrDes": "Jamaica",
+      "countryCode": "388",
+      "iso": "JAM",
+      "iso23166": "JM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "AAAA99",
+      "countryId": 106,
+      "countryIdPub": "JAM"
+    },
+    {
+      "cntrDes": "Japan",
+      "countryCode": "392",
+      "iso": "JPN",
+      "iso23166": "JP",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999-9999",
+      "countryId": 107,
+      "countryIdPub": "JPN"
+    },
+    {
+      "cntrDes": "Jordan",
+      "countryCode": "400",
+      "iso": "JOR",
+      "iso23166": "JO",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 108,
+      "countryIdPub": "JOR"
+    },
+    {
+      "cntrDes": "Kenya",
+      "countryCode": "404",
+      "iso": "KEN",
+      "iso23166": "KE",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 110,
+      "countryIdPub": "KEN"
+    },
+    {
+      "cntrDes": "Kiribati",
+      "countryCode": "296",
+      "iso": "KIR",
+      "iso23166": "KI",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 111,
+      "countryIdPub": "KIR"
+    },
+    {
+      "cntrDes": "Korea, Democratic People's Republic of",
+      "countryCode": "408",
+      "iso": "PRK",
+      "iso23166": "KP",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999-999",
+      "countryId": 112,
+      "countryIdPub": "PRK"
+    },
+    {
+      "cntrDes": "Kuwait",
+      "countryCode": "414",
+      "iso": "KWT",
+      "iso23166": "KW",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 114,
+      "countryIdPub": "KWT"
+    },
+    {
+      "cntrDes": "Kyrgyzstan",
+      "countryCode": "417",
+      "iso": "KGZ",
+      "iso23166": "KG",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 115,
+      "countryIdPub": "KGZ"
+    },
+    {
+      "cntrDes": "Lao People's Democratic Republic",
+      "countryCode": "418",
+      "iso": "LAO",
+      "iso23166": "LA",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 116,
+      "countryIdPub": "LAO"
+    },
+    {
+      "cntrDes": "Lebanon",
+      "countryCode": "422",
+      "iso": "LBN",
+      "iso23166": "LB",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 118,
+      "countryIdPub": "LBN"
+    },
+    {
+      "cntrDes": "Lesotho",
+      "countryCode": "426",
+      "iso": "LSO",
+      "iso23166": "LS",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999",
+      "countryId": 119,
+      "countryIdPub": "LSO"
+    },
+    {
+      "cntrDes": "Liberia",
+      "countryCode": "430",
+      "iso": "LBR",
+      "iso23166": "LR",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 120,
+      "countryIdPub": "LBR"
+    },
+    {
+      "cntrDes": "Liechtenstein",
+      "countryCode": "438",
+      "iso": "LIE",
+      "iso23166": "LI",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 122,
+      "countryIdPub": "LIE"
+    },
+    {
+      "cntrDes": "Lithuania",
+      "countryCode": "440",
+      "iso": "LTU",
+      "iso23166": "LT",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 123,
+      "countryIdPub": "LTU"
+    },
+    {
+      "cntrDes": "Luxembourg",
+      "countryCode": "442",
+      "iso": "LUX",
+      "iso23166": "LU",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 124,
+      "countryIdPub": "LUX"
+    },
+    {
+      "cntrDes": "Macao",
+      "countryCode": "446",
+      "iso": "MAC",
+      "iso23166": "MO",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 125,
+      "countryIdPub": "MAC"
+    },
+    {
+      "cntrDes": "Macedonia",
+      "countryCode": "807",
+      "iso": "MKD",
+      "iso23166": "MK",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 126,
+      "countryIdPub": "MKD"
+    },
+    {
+      "cntrDes": "Madagascar",
+      "countryCode": "450",
+      "iso": "MDG",
+      "iso23166": "MG",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999",
+      "countryId": 127,
+      "countryIdPub": "MDG"
+    },
+    {
+      "cntrDes": "Malawi",
+      "countryCode": "454",
+      "iso": "MWI",
+      "iso23166": "MW",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 128,
+      "countryIdPub": "MWI"
+    },
+    {
+      "cntrDes": "Malaysia",
+      "countryCode": "458",
+      "iso": "MYS",
+      "iso23166": "MY",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 129,
+      "countryIdPub": "MYS"
+    },
+    {
+      "cntrDes": "Maldives",
+      "countryCode": "462",
+      "iso": "MDV",
+      "iso23166": "MV",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99-99",
+      "countryId": 130,
+      "countryIdPub": "MDV"
+    },
+    {
+      "cntrDes": "Mali",
+      "countryCode": "466",
+      "iso": "MLI",
+      "iso23166": "ML",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 131,
+      "countryIdPub": "MLI"
+    },
+    {
+      "cntrDes": "Malta",
+      "countryCode": "470",
+      "iso": "MLT",
+      "iso23166": "MT",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "AAA99",
+      "countryId": 132,
+      "countryIdPub": "MLT"
+    },
+    {
+      "cntrDes": "Marshall Islands",
+      "countryCode": "584",
+      "iso": "MHL",
+      "iso23166": "MH",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 133,
+      "countryIdPub": "MHL"
+    },
+    {
+      "cntrDes": "Martinique",
+      "countryCode": "474",
+      "iso": "MTQ",
+      "iso23166": "MQ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 134,
+      "countryIdPub": "MTQ"
+    },
+    {
+      "cntrDes": "Mauritania",
+      "countryCode": "478",
+      "iso": "MRT",
+      "iso23166": "MR",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 135,
+      "countryIdPub": "MRT"
+    },
+    {
+      "cntrDes": "Mayotte",
+      "countryCode": "175",
+      "iso": "MYT",
+      "iso23166": "YT",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 137,
+      "countryIdPub": "MYT"
+    },
+    {
+      "cntrDes": "Mexico",
+      "countryCode": "484",
+      "iso": "MEX",
+      "iso23166": "MX",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 138,
+      "countryIdPub": "MEX"
+    },
+    {
+      "cntrDes": "Micronesia, Federated States of",
+      "countryCode": "583",
+      "iso": "FSM",
+      "iso23166": "FM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 139,
+      "countryIdPub": "FSM"
+    },
+    {
+      "cntrDes": "Monaco",
+      "countryCode": "492",
+      "iso": "MCO",
+      "iso23166": "MC",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 141,
+      "countryIdPub": "MCO"
+    },
+    {
+      "cntrDes": "Mongolia",
+      "countryCode": "496",
+      "iso": "MNG",
+      "iso23166": "MN",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 142,
+      "countryIdPub": "MNG"
+    },
+    {
+      "cntrDes": "Montserrat",
+      "countryCode": "500",
+      "iso": "MSR",
+      "iso23166": "MS",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 143,
+      "countryIdPub": "MSR"
+    },
+    {
+      "cntrDes": "Morocco",
+      "countryCode": "504",
+      "iso": "MAR",
+      "iso23166": "MA",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 144,
+      "countryIdPub": "MAR"
+    },
+    {
+      "cntrDes": "Myanmar",
+      "countryCode": "104",
+      "iso": "MMR",
+      "iso23166": "MM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 146,
+      "countryIdPub": "MMR"
+    },
+    {
+      "cntrDes": "Namibia",
+      "countryCode": "516",
+      "iso": "NAM",
+      "iso23166": "NA",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 147,
+      "countryIdPub": "NAM"
+    },
+    {
+      "cntrDes": "Nauru",
+      "countryCode": "520",
+      "iso": "NRU",
+      "iso23166": "NR",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 148,
+      "countryIdPub": "NRU"
+    },
+    {
+      "cntrDes": "Netherlands",
+      "countryCode": "528",
+      "iso": "NLD",
+      "iso23166": "NL",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999AA",
+      "countryId": 150,
+      "countryIdPub": "NLD"
+    },
+    {
+      "cntrDes": "Netherlands Antilles",
+      "countryCode": "532",
+      "iso": "ANT",
+      "iso23166": "AN",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 151,
+      "countryIdPub": "ANT"
+    },
+    {
+      "cntrDes": "New Zealand",
+      "countryCode": "554",
+      "iso": "NZL",
+      "iso23166": "NZ",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 153,
+      "countryIdPub": "NZL"
+    },
+    {
+      "cntrDes": "Nicaragua",
+      "countryCode": "558",
+      "iso": "NIC",
+      "iso23166": "NI",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999-999-9",
+      "countryId": 154,
+      "countryIdPub": "NIC"
+    },
+    {
+      "cntrDes": "Niger",
+      "countryCode": "562",
+      "iso": "NER",
+      "iso23166": "NE",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 155,
+      "countryIdPub": "NER"
+    },
+    {
+      "cntrDes": "Nigeria",
+      "countryCode": "566",
+      "iso": "NGA",
+      "iso23166": "NG",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999999",
+      "countryId": 156,
+      "countryIdPub": "NGA"
+    },
+    {
+      "cntrDes": "Niue",
+      "countryCode": "570",
+      "iso": "NIU",
+      "iso23166": "NU",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 157,
+      "countryIdPub": "NIU"
+    },
+    {
+      "cntrDes": "Norfolk Island",
+      "countryCode": "574",
+      "iso": "NFK",
+      "iso23166": "NF",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 158,
+      "countryIdPub": "NFK"
+    },
+    {
+      "cntrDes": "Northern Mariana Islands",
+      "countryCode": "580",
+      "iso": "MNP",
+      "iso23166": "MP",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 159,
+      "countryIdPub": "MNP"
+    },
+    {
+      "cntrDes": "Norway",
+      "countryCode": "578",
+      "iso": "NOR",
+      "iso23166": "NO",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 160,
+      "countryIdPub": "NOR"
+    },
+    {
+      "cntrDes": "Oman",
+      "countryCode": "512",
+      "iso": "OMN",
+      "iso23166": "OM",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999",
+      "countryId": 161,
+      "countryIdPub": "OMN"
+    },
+    {
+      "cntrDes": "Pakistan",
+      "countryCode": "586",
+      "iso": "PAK",
+      "iso23166": "PK",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99999",
+      "countryId": 162,
+      "countryIdPub": "PAK"
+    },
+    {
+      "cntrDes": "Palau",
+      "countryCode": "585",
+      "iso": "PLW",
+      "iso23166": "PW",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 163,
+      "countryIdPub": "PLW"
+    },
+    {
+      "cntrDes": "Palestinian Territory, Occupied",
+      "countryCode": "275",
+      "iso": "PSE",
+      "iso23166": "PS",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 164,
+      "countryIdPub": "PSE"
+    },
+    {
+      "cntrDes": "Papua New Guinea",
+      "countryCode": "598",
+      "iso": "PNG",
+      "iso23166": "PG",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "999",
+      "countryId": 166,
+      "countryIdPub": "PNG"
+    },
+    {
+      "cntrDes": "Paraguay",
+      "countryCode": "600",
+      "iso": "PRY",
+      "iso23166": "PY",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 167,
+      "countryIdPub": "PRY"
+    },
+    {
+      "cntrDes": "Peru",
+      "countryCode": "604",
+      "iso": "PER",
+      "iso23166": "PE",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999",
+      "countryId": 168,
+      "countryIdPub": "PER"
+    },
+    {
+      "cntrDes": "Pitcairn",
+      "countryCode": "612",
+      "iso": "PCN",
+      "iso23166": "PN",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNNNNNN",
+      "countryId": 170,
+      "countryIdPub": "PCN"
+    },
+    {
+      "cntrDes": "Poland",
+      "countryCode": "616",
+      "iso": "POL",
+      "iso23166": "PL",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "99-999",
+      "countryId": 171,
+      "countryIdPub": "POL"
+    },
+    {
+      "cntrDes": "Portugal",
+      "countryCode": "620",
+      "iso": "PRT",
+      "iso23166": "PT",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "9999-999",
+      "countryId": 172,
+      "countryIdPub": "PRT"
+    },
+    {
+      "cntrDes": "Ascension Island",
+      "countryCode": " ",
+      "iso": "ASC",
+      "iso23166": "AC",
+      "displayFormat": " title | firstname ~ lastname | name | street ~ streetNo | zip ~ city | country ",
+      "postalCodeFormat": "NNNNN",
+      "countryId": 241,
+      "countryIdPub": "ASC"
+    }
+  ],
+  "countryId": 80,
+  "countryIdPub": "DEU"
+}

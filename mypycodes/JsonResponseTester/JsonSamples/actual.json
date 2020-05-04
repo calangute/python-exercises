@@ -1,0 +1,14 @@
+{
+  "contactType": {
+    "postalAddress": {
+      "city": "Frankfurt",
+      "postalCode": "63234",
+      "streetNo": "4",
+      "street": "Hauptstrasse"
+    },
+    "contactPhoneNo": {}
+  },
+  "name": {
+    "companyName": "Content Provider 1"
+  }
+}

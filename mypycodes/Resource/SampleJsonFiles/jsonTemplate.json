@@ -1,0 +1,95 @@
+{
+  "createdByUser": "ADMX",
+  "isIndividualOverdiscDisabled": false,
+  "familyId": 3,
+  "listOfAssignments": [
+    {
+      "listOfAssignmentsListpart": {
+        "familyId": 3,
+        "completionStatus": 0,
+        "validFrom": "2015-07-09"
+      }
+    }
+  ],
+  "csId": 29,
+  "csIdPub": "CUST0000000002",
+  "csCode": "1.22",
+  "csStatus": "a",
+  "csStatusDate": "2015-07-09T11:46:24+02:00",
+  "csActivationDate": "2015-07-09T11:46:24+02:00",
+  "csLevelCode": 0,
+  "paymentResp": true,
+  "prgCode": "1",
+  "rpcode": 1,
+  "rpcodePub": "OCCRP",
+  "tradeCode": "TELCO",
+  "costId": 1,
+  "costCodePub": "DEFCOSTCTR",
+  "csPassword": "password",
+  "rsCode": 1,
+  "wpCode": 1,
+  "csBillInformation": false,
+  "expectPayCurrencyId": 43,
+  "expectPayCurrencyIdPub": "EUR",
+  "csConvratetypePayment": 1,
+  "csConvratetypePaymentPub": "UDCRT",
+  "refundCurrencyId": 43,
+  "refundCurrencyIdPub": "EUR",
+  "csConvratetypeRefund": 1,
+  "csConvratetypeRefundPub": "UDCRT",
+  "csCrcheckAgreed": true,
+  "custcatCode": 1,
+  "csIncorporatedInd": false,
+  "csBillcycle": "02",
+  "csBillcycleDesc": "Monthly Billcycle",
+  "csLimitTr1": 3,
+  "csLimitTr1Pub": "50%",
+  "csLimitTr2": 3,
+  "csLimitTr2Pub": "50%",
+  "csLimitTr3": 3,
+  "csLimitTr3Pub": "50%",
+  "csClimit": {
+    "amount": 0,
+    "currency": "EUR"
+  },
+  "csContresp": true,
+  "csDeposit": {
+    "amount": 0,
+    "currency": "EUR"
+  },
+  "csDunning": true,
+  "csPrepayment": false,
+  "csFcId": 43,
+  "csFcIdPub": "EUR",
+  "csCscurbalance": {
+    "amount": 0,
+    "currency": "EUR"
+  },
+  "csPrevbalance": {
+    "amount": 0,
+    "currency": "EUR"
+  },
+  "csUnbilledAmount": {
+    "amount": 0,
+    "currency": "EUR"
+  },
+  "csInitPrepaidContrOwner": false,
+  "csCreationDate": "2015-07-09T11:46:24+02:00",
+  "lastModificationUser": "AUT",
+  "paymentRespId": 29,
+  "csPaymntRespCode": "1.22",
+  "partyRoleAssignments": [
+    {
+      "partyRoleAssignmentsListpart": {
+        "partyRoleId": 1,
+        "partyRoleShname": "Subscriber",
+        "partyRoleName": "Subscriber",
+        "partyRoleDescription": "A Party that uses a network, services or content provided by other Party"
+      }
+    }
+  ],
+  "partyType": "C",
+  "collInd": false,
+  "markedForRerating": false,
+  "performCreditScoring": false
+}

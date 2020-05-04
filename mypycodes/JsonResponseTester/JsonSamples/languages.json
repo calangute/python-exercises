@@ -1,0 +1,35 @@
+{
+  "listOfLanguages": [
+    {
+      "lngCode": 1,
+      "lngCodePub": "DE",
+      "lngDes": "German",
+      "lngShdes": "DE"
+    },
+    {
+      "lngCode": 2,
+      "lngCodePub": "EN",
+      "lngDes": "English",
+      "lngShdes": "EN"
+    },
+    {
+      "lngCode": 3,
+      "lngCodePub": "FR",
+      "lngDes": "French",
+      "lngShdes": "FR"
+    },
+    {
+      "lngCode": 4,
+      "lngCodePub": "IT",
+      "lngDes": "Italian",
+      "lngShdes": "IT"
+    },
+    {
+      "lngCode": 5,
+      "lngCodePub": "ES",
+      "lngDes": "Spanish",
+      "lngShdes": "ES"
+    }
+  ],
+  "lngCodeDef": 2
+}

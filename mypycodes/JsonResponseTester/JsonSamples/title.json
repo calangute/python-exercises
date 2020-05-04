@@ -1,0 +1,48 @@
+{
+  "listOfTitles": [
+    {
+      "ttlId": 1,
+      "ttlIdPub": "MR",
+      "ttlDes": "Mr.",
+      "ttlGender": "M"
+    },
+    {
+      "ttlId": 2,
+      "ttlIdPub": "MRS",
+      "ttlDes": "Mrs.",
+      "ttlGender": "F"
+    },
+    {
+      "ttlId": 3,
+      "ttlIdPub": "MS",
+      "ttlDes": "Ms.",
+      "ttlGender": "F"
+    },
+    {
+      "ttlId": 4,
+      "ttlIdPub": "COMP",
+      "ttlDes": "Company",
+      "ttlGender": "U"
+    },
+    {
+      "ttlId": 5,
+      "ttlIdPub": "SIR",
+      "ttlDes": "Sir",
+      "ttlGender": "M"
+    },
+    {
+      "ttlId": 6,
+      "ttlIdPub": "LADY",
+      "ttlDes": "Lady",
+      "ttlGender": "F"
+    },
+    {
+      "ttlId": 7,
+      "ttlIdPub": "TR",
+      "ttlDes": "Trading",
+      "ttlGender": "U"
+    }
+  ],
+  "ttlDef": 1,
+  "ttlDefPub": "MR"
+}

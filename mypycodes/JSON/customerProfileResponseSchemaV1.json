@@ -1,0 +1,48 @@
+{
+  "title": "Customer Profile Response schema",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "#",
+  "self": {
+    "vendor": "com.ericsson",
+    "name": "customer/profile/response",
+    "format": "jsonschema",
+    "version": "1.0.0"
+  },
+  "type": "object",
+  "description": "Schema for a Customer profile details Response.",
+  "definitions": {
+	"customerGroup" : {
+	  "type": "object",
+      "description": "Customer group details",
+      "properties": {
+		"id" : {
+			"type" : "string",
+			"description" : "pricegroup of the customer/dealer"
+		},
+		"description" : {
+			"type" : "string",
+			"description" : "pricegroup description, get from customer_groups.read"
+		}
+	  }
+	}
+  },
+  "properties": {
+	"customerGroup" : {
+		"$ref" : "#/definitions/customerGroup"
+	},
+	"customerTenure" : {
+		"type" : "integer",
+		"description" : "Sysdate - CS Activation date (to be calculated), tenure in days"
+	},
+	"customerActivationDate" : {
+		"type" : "string",
+		"format" : "date-time",
+		"description" : "activation date of the customer (It is only set if the status is active.)"
+	},
+	"customerDeactivationDate" : {
+		"type" : "string",
+		"format" : "date-time",
+		"description" : "Deactivation date"
+	}
+  }
+}

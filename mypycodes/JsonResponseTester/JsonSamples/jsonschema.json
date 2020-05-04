@@ -1,0 +1,152 @@
+{
+  "title": "Customer Contact Response schema",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "#",
+  "self": {
+    "vendor": "com.ericsson",
+    "name": "customer/contact/response",
+    "format": "jsonschema",
+    "version": "1.0.0"
+  },
+  "type": "object",
+  "description": "Schema for a Customer Contact details Response. For e.g., address details",
+  "definitions": {
+    "id": {
+      "type": "string",
+      "description": "Customer status id"
+    },
+	"postalAddress" : {
+	  "type": "object",
+      "description": "Customer postal address",
+      "properties": {
+		"city" : {
+		  "type": "string",
+		  "description": "City of the postal address"
+		},
+		"postalCode" : {
+          "type": "string",
+		  "description": "Zip of the postal address"
+		},
+		"streetNo" : {
+          "type": "string",
+		  "description": "Street no of the postal address"
+		},
+		"street" : {
+          "type": "string",
+		  "description": "Street of the postal address"
+		},
+		"state" : {
+          "type": "string",
+		  "description": "State of the postal address"
+		},
+		"countryId" : {
+          "type": "string",
+		  "description": "Public key of the country"
+		},
+		"countryDescription" : {
+          "type": "string",
+		  "description": "Country description"
+		}
+	  }
+	},
+	"contactPhoneNo" : {
+	  "type": "object",
+      "description": "Customer postal address",
+      "properties": {
+		"nationalDestinationCode" : {
+		  "type": "string",
+		  "description": "Phone no.1 areacode of the voice address"
+		},
+		"subscriberNo" : {
+		  "type": "string",
+		  "description": "Phone no.1 of the voice address"
+		}
+	   }
+	 },
+    "contactType": {
+      "type": "object",
+      "description": "Customer contact type",
+      "properties": {
+        "postalAddress": {
+          "$ref": "#/definitions/postalAddress"
+        },
+        "email": {
+          "type": "string",
+		  "description": "Email address of the customer"
+		},
+		"contactPhoneNo": {
+          "$ref": "#/definitions/contactPhoneNo"
+        }
+      }
+    },
+	"language": {
+      "type": "object",
+      "description": "Customer language details",
+      "properties": {
+		"id" : {
+		  "type": "string",
+		  "description": "Public key of the language"
+		},
+		"description" : {
+			"type": "string",
+			"description": "The description of the language"
+		}
+	  }
+    },
+	"title": {
+      "type": "object",
+      "description": "Customer contact name details",
+      "properties": {
+		"id" :  {
+			  "type": "string",
+			  "description": "Public key of the title"
+		},
+		"description" : {
+			"type" : "string",
+			"description" : "Title description"
+		}
+	  }
+	},
+    "contactName": {
+      "type": "object",
+      "description": "Customer contact name details",
+      "properties": {
+        "firstName": {
+			"type": "string",
+			"description": "First name of the customer"
+        },
+        "lastName": {
+		  "type": "string",
+		  "description": "Last name of the customer"
+		},
+		"companyName": {
+        	"type": "string",
+			"description": "Company name"
+        },
+		"title": {
+          "$ref": "#/definitions/title"
+        }
+      }
+    },
+	"contactRoles" : {
+		"type":"array",
+		"items": { 
+			"type": "string" 
+		}
+	}
+  },
+  "properties": {
+    "contactType": {
+      "$ref": "#/definitions/contactType"
+    },
+    "language": {
+      "$ref": "#/definitions/language"
+    },
+    "name": {
+      "$ref": "#/definitions/contactName"
+    },
+    "contactRoles": {
+      "$ref": "#/definitions/contactRoles"
+    }
+  }
+}

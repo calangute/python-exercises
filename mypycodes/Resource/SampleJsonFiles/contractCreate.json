@@ -1,0 +1,13 @@
+{
+    "contractNew": {
+          "csId": "29",
+          "sccode": "1",
+          "submId": "1",
+          "plcode": "1001",
+          "rpcode":"8"
+    },
+    "contractDeviceAdd": {
+          "resType": "2",
+          "resId":"1505"
+    }
+}

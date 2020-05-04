@@ -1,0 +1,19 @@
+{
+  "csInitialStatus": "i",
+  "initialStateReasons": [{"initialStatusReason": 7}],
+  "listOfCustomerStates": [{"csStatus": "i","csStateDescription": "Interested","listOfFollowUpStates": [
+                              {"csNextStatus": "a","listOfReasonsForState": [{"rsCode": 1},{"rsCode": 9},{"rsCode": 11}]},
+                              {"csNextStatus": "d","listOfReasonsForState": [{"rsCode": 3},{"rsCode": 10},{"rsCode": 12}]}
+                                                    ]},
+                           {"csStatus": "a","csStateDescription": "Active",
+                            "listOfFollowUpStates": [{"csNextStatus": "i","listOfReasonsForState": [{"rsCode": 7}]},
+                                                     {"csNextStatus": "s","listOfReasonsForState": [{"rsCode": 2},{"rsCode": 21}]},
+                                                     {"csNextStatus": "d","listOfReasonsForState": [{"rsCode": 3},{"rsCode": 10},{"rsCode": 12}]}
+                                                    ]},
+                           {"csStatus": "s","csStateDescription": "Suspended",
+                            "listOfFollowUpStates": [
+                                                     {"csNextStatus": "a","listOfReasonsForState": [{"rsCode": 4},{"rsCode": 22}]},{"csNextStatus": "d","listOfReasonsForState": [{"rsCode": 3},{"rsCode": 10},{"rsCode": 12}]}]},
+                                                     {"csStatus": "d","csStateDescription": "Deactive","listOfFollowUpStates": []}
+                                                    ]
+}
+

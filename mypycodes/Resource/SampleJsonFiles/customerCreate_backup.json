@@ -1,0 +1,28 @@
+{
+      "customerNew": {
+            "prgCode": "1",
+            "rpcode": 8,
+            "csBillcycle": "02",
+            "partyRoleAssignments": [{
+                      "partyRoleId": 1
+                    }]
+      },
+      "paymentArrangementWrite": {
+            "cspPmntId": -1
+      },
+      "addresses": [{
+            "addressWrite": {
+                "adrSeq": 0,
+                "lngCode": 2,
+                "adrName": "Test",
+                "adrCity": "Chennai"
+            }
+      }],
+      "customerInfoWrite": {},
+      "customerWrite": {
+            "csStatus": "a",
+            "rsCode": 1,
+            "partyRoleAssignments": []
+      }
+}
+

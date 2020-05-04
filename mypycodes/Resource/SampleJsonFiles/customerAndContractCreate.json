@@ -1,0 +1,35 @@
+{
+    "customerNew": {
+          "prgCode": "1",
+          "rpcode": "8",
+          "csBillcycle": "02",
+          "partyRoleAssignments": []
+    },
+    "paymentArrangementWrite": {
+          "cspPmntId": "-1"
+    },
+    "addresses": [{
+          "addressWrite": {
+              "adrSeq": "0",
+              "adrName": "test",
+              "adrCity": "chennai"
+        }
+    }],
+    "customerInfoWrite": {},
+    "customerWrite": {
+          "csStatus": "a",
+          "rsCode": "1",
+          "partyRoleAssignments": []
+    },
+    "contractNew": {
+          "csId": "29",
+          "sccode": "1",
+          "submId": "1",
+          "plcode": "1001",
+          "rpcode": "8"
+    },
+    "contractDeviceAdd": {
+          "resType": "2",
+          "resId ": "1505 "
+    }
+}
